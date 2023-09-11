@@ -14,3 +14,6 @@ Third year computer engineering student at Concordia University
 
 ## 💻To Connect:
 [![Linkedin Badge](https://img.shields.io/badge/-andrewchebli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewchebli/)](https://www.linkedin.com/in/andrewchebli) 
+
+# stats
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewchebli)](https://github.com/andrewchebli/github-readme-stats)
