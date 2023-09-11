@@ -17,7 +17,8 @@ Third year computer engineering student at Concordia University
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,arduino&perline=7)]()
 
 ## 💻To Connect:
-[![Linkedin Badge](https://img.shields.io/badge/-andrewchebli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewchebli/)](https://www.linkedin.com/in/andrewchebli) 
+[![Linkedin Badge](https://img.shields.io/badge/-andrewchebli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewchebli/)](https://www.linkedin.com/in/andrewchebli) [![Email](https://img.shields.io/badge/Email-andrew.chebli%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:andrew.chebli@outlook.com)
+
 
 ## 📊Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewchebli&theme=vue)](https://git.io/streak-stats&theme=vue)
