@@ -35,20 +35,21 @@ Third year computer engineering student at Concordia University
 
 
 
-<details>
-<summary>📊Total Stats</summary>
+
+## 📊Total Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewchebli&theme=vue)](https://git.io/streak-stats&theme=vue)
 
-</details>
 
+<!--
 <details>
-<summary>📊Monthly Stats</summary>
+
+  <summary>📊Monthly Stats</summary>
 
 ![Andrew's monthly github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrewchebli&theme=nord)
   
 </details>
-
+--!>
 
 <!--
 # stats
