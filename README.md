@@ -9,6 +9,7 @@ Third year computer engineering student at Concordia University
 - Currently working on an Android application with a team of 5 members
 
 
+![Andrew's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrewchebli&theme=nord)
 
 ## 👨🏼‍💻Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,react,js,cs,java,matlab&perline=7)]()
