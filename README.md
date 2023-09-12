@@ -12,7 +12,7 @@ Third year computer engineering student at Concordia University
 ## 👨🏼‍💻Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,react,js,cs,java,matlab&perline=7)]()
 
-## Softwares
+## Tools & Techonologies
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,arduino&perline=7)]()
 
 ## 💻To Connect:
