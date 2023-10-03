@@ -5,6 +5,9 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="225" alt="GIF">
 
+##  Experience:
+- Cloud Software Developer at Genetec
+
 ## ‼️Current Project(s):
 - Currently working on an Android application with a team of 5 members
 
