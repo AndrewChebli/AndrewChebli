@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="225" alt="GIF">
 
 ##  Experience:
-- Cloud Software Developer at ``Genetec``
+- Cloud Software Developer at ``Genetec`` (Sept 2022 - Dec 2022)
   
 
 ## ‼️Current Project(s):
