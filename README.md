@@ -14,7 +14,7 @@
 
 
 ## 👨🏼‍💻Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,react,js,cs,java,matlab&perline=7)]()
+[![My Skills](https://skillicons.dev/icons?i=cpp,react,js,cs,java,python,matlab&perline=7)]()
 
 ## Tools & Techonologies
 [![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,arduino&perline=7)]()
