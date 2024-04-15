@@ -6,13 +6,8 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="225" alt="GIF">
 
 ##  Experience:
-- Cloud Software Developer at ``Genetec`` (Sept 2022 - Dec 2022)
+- Cloud Software Developer at ``Genetec`` (Sept 2022 - Dec 2022), (Jan 2024 - Aug 2024)
   
-
-## ‼️Current Project(s):
-- Currently working on an Android application with a team of 5 members
-
-
 ## 👨🏼‍💻Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,react,js,cs,java,python,matlab&perline=7)]()
 
