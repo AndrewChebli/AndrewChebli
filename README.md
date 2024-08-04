@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="225" alt="GIF">
 
 ##  Experience:
-- Cloud Software Developer at ``Genetec`` (Sept 2022 - Dec 2022), (Jan 2024 - Aug 2024)
+- Cloud Software Developer intern at ``Genetec`` (Sept 2022 - Dec 2022), (Jan 2024 - Aug 2024)
   
 ## 👨🏼‍💻Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,cs,java,python,cpp,terraform,matlab&perline=7)]()
