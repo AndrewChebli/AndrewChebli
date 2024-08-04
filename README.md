@@ -9,10 +9,10 @@
 - Cloud Software Developer at ``Genetec`` (Sept 2022 - Dec 2022), (Jan 2024 - Aug 2024)
   
 ## 👨🏼‍💻Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,react,js,cs,java,python,matlab&perline=7)]()
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,cs,java,python,cpp,terraform,matlab&perline=7)]()
 
 ## Tools & Techonologies
-[![My Skills](https://skillicons.dev/icons?i=idea,androidstudio,vscode,visualstudio,arduino&perline=7)]()
+[![My Skills](https://skillicons.dev/icons?i=idea,tensorflow,androidstudio,vscode,azure,visualstudio,arduino&perline=7)]()
 
 ## 💻To Connect:
 <table>
