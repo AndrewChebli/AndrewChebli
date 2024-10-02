@@ -40,19 +40,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewchebli&theme=vue)](https://git.io/streak-stats&theme=vue)
 
 
-<!--
-<details>
-
-  <summary>📊Monthly Stats</summary>
-
-![Andrew's monthly github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrewchebli&theme=nord)
-  
-</details>
---!>
-
-<!--
-# stats
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewchebli)](https://github.com/andrewchebli/github-readme-stats)
-trying the update stats--!>
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AndrewChebli.AndrewChebli)
 
