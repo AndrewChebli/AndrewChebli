@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,cs,java,python,cpp,terraform,matlab&perline=7)]()
 
 ## Tools & Techonologies
-[![My Skills](https://skillicons.dev/icons?i=idea,tensorflow,androidstudio,vscode,azure,visualstudio,arduino&perline=7)]()
+[![My Skills](https://skillicons.dev/icons?i=idea,tensorflow,androidstudio,vscode,azure,visualstudio,arduino,mongodb&perline=7)]()
 
 ## 💻To Connect:
 <table>
