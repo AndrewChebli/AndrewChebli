@@ -1,7 +1,7 @@
 ## Hello! My name is Andrew!
 
 ## 📒Education 
-``` Fourth year Computer Engineering student at Concordia University```
+``` Fifth(Last) year Computer Engineering student at Concordia University```
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="225" alt="GIF">
 
