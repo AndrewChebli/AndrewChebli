@@ -37,8 +37,6 @@
 
 ## 📊Total Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrewchebli&theme=vue)](https://git.io/streak-stats&theme=vue)
-
 ![AndrewChebli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewChebli&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
